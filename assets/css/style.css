@@ -1,0 +1,78 @@
+body {
+    
+    background: url("../images/eight_horns.png");
+}
+
+h1 {
+
+    line-height: 70px;
+    background-color: #ffe6b3;
+    font-size: 40px;
+    width: 333px;
+
+
+}
+
+/*Directions Box*/
+
+#directions {
+
+width: 500px;
+background-color: #ffcccc;
+line-height: 30px;
+padding-top: 20px;
+
+
+}
+
+.container{
+   padding: 40px;
+}
+
+ul{
+
+    padding-bottom: 30px;  
+
+}
+
+li.steps {
+    margin: 0 0 20px 8px;
+
+}
+
+/* ~~~~~~~~ Score area */
+
+#boxes {
+    display: flex;
+    padding-right: 50%
+    
+}
+
+#random-number {
+    flex: 1;
+    line-height: 70px;
+    background-color: #ff4d4d;
+    font-size: 25px;
+    height: 100px;
+
+
+}
+
+#score {
+    padding-inline-start: 10px; 
+    line-height: 50px;
+    background-color: #42cef4;
+    font-size: 25px;
+    width: 333px;
+    height: 100px;
+}
+
+.totalscore {
+    line-height: 50px;
+    background-color: #ffe6b3;
+    font-size: 25px;
+    width: 333px;
+    height: 100px;
+    float:
+
+}
